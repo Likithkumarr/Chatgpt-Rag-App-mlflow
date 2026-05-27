@@ -31,7 +31,6 @@ temp/
 temp_evals/
  
 # Screenshots
-ScreenShots/
  
 # Logs
 *.log
@@ -52,5 +51,4 @@ build/
 datasets/
  
 # Secrets
-config_secret.py
  
