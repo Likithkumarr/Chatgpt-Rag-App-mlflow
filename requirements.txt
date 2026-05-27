@@ -1,0 +1,14 @@
+langchain
+openai
+pydantic
+python-dotenv
+pytest
+streamlit
+langchain-core
+langchain-community
+langchain-classic
+langchain-chroma
+python-docx
+mlflow
+pytesseract
+Pillow

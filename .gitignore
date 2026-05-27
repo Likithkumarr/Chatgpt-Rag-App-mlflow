@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Virtual Environment
+myenv/
+venv/
+.env/
+ 
+# VS Code
+.vscode/
+ 
+# Environment variables
+.env
+ 
+# Database files
+*.db
+Users.db
+mlflow.db
+ 
+# Chroma DB
+chroma_db7/
+ 
+# MLflow artifacts
+mlartifacts/
+ 
+# Temporary files
+temp/
+temp_evals/
+ 
+# Screenshots
+ScreenShots/
+ 
+# Logs
+*.log
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Jupyter
+.ipynb_checkpoints/
+ 
+# Build files
+dist/
+build/
+*.egg-info/
+ 
+# Uploaded datasets (optional)
+datasets/
+ 
+# Secrets
+config_secret.py
+ 
